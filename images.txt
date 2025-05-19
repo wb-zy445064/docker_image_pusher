@@ -6,6 +6,7 @@ centos:centos7
 mysql:5.7.44
 redis:7.4.1
 redis:7.4.2
+nginx:1.28.0
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
